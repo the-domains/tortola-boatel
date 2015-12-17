@@ -1,7 +1,7 @@
 name: Tortola Boatel
 favicon: null
-layout_spectrum: 0.7671771524474025
-typography_spectrum: 0.46926299296319485
+layout_spectrum: 0.51019
+typography_spectrum: 0.24537
 title: A cabin away from home
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#d1e8f7'
+    - '#0172ca'
+    - '#01b4e4'
+    - '#806d73'
+    - '#493541'
   brandStrength: 0.8838494173251092
   lightness: 0.44484013225883245
-  saturation: 0.7982146341819316
+  saturation: 0.75
   rhythmicContrast: 0.6785771881695837
 purpose: []
